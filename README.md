@@ -1,6 +1,6 @@
 # Legends Farm Bot
 
-A small Windows bot that farms **Raids** and the **Story mode** of a mobile fighting game played on a PC
+A small Windows bot made by myself that farms **Raids** and the **Story mode** of a mobile fighting game played on a PC
 emulator. It "looks" at the game window with OpenCV (screen recognition) and clicks like a person would.
 Nothing is injected into the game.
 
