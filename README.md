@@ -31,7 +31,7 @@ raids, you only create the raid images.
    You can stop and resume later, or skip an image with `s`.
 5. Double-click one of the `run_*.bat` files.
 
-Emergency stop: move the mouse to the **top-left corner** of the screen, or press `Ctrl+C`.
+Emergency stop: move the mouse to the **top-left corner** of the screen, or press `Ctrl+C` in the console.
 
 ## Launch files
 
